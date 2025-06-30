@@ -1,4 +1,4 @@
-# GoSec Labs
+# GoSec Labs 🧪
 > **Full-Stack Blockchain Security Excellence**
 
 Securing blockchain infrastructure and smart contracts from core protocols to application layer.
