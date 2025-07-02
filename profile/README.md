@@ -8,7 +8,7 @@ Securing blockchain infrastructure and smart contracts from core protocols to ap
 - Security Tooling Development  
 - Long-term Security Partnership  
 - ZK Circuit Auditing  
-- Infrastructure Security (Cryptography, Web2 x Web3, Nodes, Offchain Components, Distributed Systems)  
+- Infrastructure Security (Cryptography, Web2, Nodes, Offchain Components, Distributed Systems)  
 - Blockchain Development  
 - Wallet Security  
 - Supply Chain Security  
@@ -22,10 +22,6 @@ Securing blockchain infrastructure and smart contracts from core protocols to ap
 
 ## Methods
 Formal Verification • Threat Modeling • Static Analysis • Dynamic Analysis • Manual Review • Fuzzing • Penetration Testing • Code Review • Architecture Analysis • Economic Security Analysis
-
-## Ecosystems
-**Golang Clients:** Geth • Erigon • Cosmos SDK • Tendermint • IPFS • Chainlink  
-**EVM Products:** Ethereum • Polygon • Arbitrum • Optimism • Base • Avalanche • BNB • zkSync • All EVM-based protocols  
 
 ## Products
 - Security Scanning Framework  
